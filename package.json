@@ -1,0 +1,16 @@
+{
+  "name": "slack-computer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dave@7oakgroup.com",
+  "license": "public domain",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "slackbots": "^0.3.0"
+  }
+}
